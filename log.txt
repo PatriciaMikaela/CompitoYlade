@@ -1,0 +1,34 @@
+commit bb17326113a11525e73698a3c8388e5836dc1fe9
+Author: Patricia Mikaela Ylade <studente.ylade.patricia@gmail.com>
+Date:   Fri May 10 11:49:58 2019 +0200
+
+    Inserito colore di sfondo rosso
+
+diff --git a/css/style.css b/css/style.css
+index e69de29..374db5f 100644
+--- a/css/style.css
++++ b/css/style.css
+@@ -0,0 +1 @@
++body {background-color:red;}
+\ No newline at end of file
+
+commit b3e5820569a30805a9ddd9b91d3102398a81d0f0
+Author: Patricia Mikaela Ylade <studente.ylade.patricia@gmail.com>
+Date:   Fri May 10 11:44:15 2019 +0200
+
+    Inserita immagine
+
+diff --git a/img/img1.png b/img/img1.png
+new file mode 100644
+index 0000000..ab1a3ec
+Binary files /dev/null and b/img/img1.png differ
+
+commit cfcd2f83e93be85a521b6215201027c98642e0e5
+Author: Patricia Mikaela Ylade <studente.ylade.patricia@gmail.com>
+Date:   Fri May 10 11:41:14 2019 +0200
+
+    Prima Commit
+
+diff --git a/css/style.css b/css/style.css
+new file mode 100644
+index 0000000..e69de29
